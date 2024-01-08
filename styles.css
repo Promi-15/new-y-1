@@ -69,6 +69,7 @@ header{
     height: 500px;
     margin-left: 380px;
     margin-top: 50px;
+    
 }
 .section2{
     background-image: url(images/Vectorrr.png);
@@ -108,13 +109,17 @@ header{
     color: #FFF;
     text-align: center;
     font-family: 'Inter', sans-serif;
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 22px;
+    font-weight: bold;
     text-transform: uppercase;
     margin-left: 166px;
-    margin-top: 25px;
+    margin-top: 35px;
     background: none;
+    border: none;
+    cursor: pointer;
+  
 }
+
 .year{
    
 width: 319.83px;
@@ -159,6 +164,10 @@ margin-top: 130px;
     justify-content: center;
     align-items: center;
     gap: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
 }
 .sec4{
     width: 1320px;
