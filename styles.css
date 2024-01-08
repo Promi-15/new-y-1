@@ -440,14 +440,14 @@ margin-top: 130px;
 .input input{
  padding: 10px;
  width: 550px;
-height: 30px;
+height: 35px;
 border-radius: 50px;
 background: #FFF;
 border: none;
 }
 .input button{
     width: 200px;
-    height: 52px;
+    height: 54px;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     margin-left: -150px;
@@ -455,6 +455,10 @@ border: none;
     color: #FFF;
     font-family: 'Inter', sans-serif;
     font-weight:bold;
+}
+.input input::placeholder{
+   padding-left: 50px;
+
 }
 
 .foot{
